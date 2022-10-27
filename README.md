@@ -1,4 +1,4 @@
 - 👋 Hi, I’m AnirudhChatterjee
 - I’m interested in Data Science and Machine Learning
-- I’m currently doing my MSc from Symbiosis 
-- U can reach me on linkedin
+- I have completed my MSc from Symbiosis 
+- You can reach me on linkedin
